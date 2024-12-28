@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+NTUSER.DAT*
+*.log
+*.ini
+/AppData/
+/OneDrive/
+/Desktop/
+/Documents/
+/Downloads/
+/Pictures/
+/Videos/
+*.zip
+*.exe
+*.msi
